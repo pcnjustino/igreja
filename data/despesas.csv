@@ -1,0 +1,7 @@
+despesa_id,data,valor,categoria
+1,2024-01-10,500.0,Aluguel
+2,2024-01-25,300.0,Manutenção
+3,2024-02-15,1000.0,Salários
+4,2024-02-28,150.0,Serviços Gerais
+5,2024-03-10,450.0,Aluguel
+6,2024-03-22,200.0,Manutenção
